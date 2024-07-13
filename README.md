@@ -29,8 +29,8 @@ This project implements a computer vision-based system for counting vehicles acr
 1. Clone this repository:
 
    ```
-   git clone https://github.com/your-username/multi-lane-vehicle-counting.git
-   cd multi-lane-vehicle-counting
+   git clone https://github.com/MMSalman26/VehicleCountInMultipleLanes.git
+   cd VehicleCountInMultipleLanes
    ```
 
 2. Create a virtual environment (optional but recommended):
